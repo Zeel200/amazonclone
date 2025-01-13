@@ -19,3 +19,18 @@ Welcome to my Amazon Clone project! This web application replicates the core fun
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Zeel200/amazonclone.git
+
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd amazon-clone
+
+3. **Install Dependencies**:
+   ```bash
+   npm install
+
+4. **Start the Development Server**:
+   ```bash
+   npm start
+
+5. **Access the Application**:
+   Open your browser and go to: http://localhost:3000
