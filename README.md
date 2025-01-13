@@ -33,4 +33,5 @@ Welcome to my Amazon Clone project! This web application replicates the core fun
    npm start
 
 5. **Access the Application**:
+   ```bash
    Open your browser and go to: http://localhost:3000
