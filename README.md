@@ -26,7 +26,7 @@ Welcome to my Amazon Clone project! This web application replicates the core fun
 
 3. **Install Dependencies**:
    ```bash
-   npm install
+   npm i **OR** npm install
 
 4. **Start the Development Server**:
    ```bash
