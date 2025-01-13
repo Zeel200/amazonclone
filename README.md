@@ -11,7 +11,7 @@ Welcome to my Amazon Clone project! This web application replicates the core fun
 ## Technologies Used 🛠️
 
 - **React** ⚛️: Front-end framework for building interactive UIs.
-- **CSS** 🎨: Styling for a sleek and modern appearance.
+- **Tailwind css** 🎨: Styling for a sleek and modern appearance.
 - **React Router** 🚦: Navigation and routing.
 
 ## Setup Instructions 🚀
